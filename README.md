@@ -1,1 +1,1 @@
-# Sales prediction through linear regression 
+# world Sales prediction through linear regression 
